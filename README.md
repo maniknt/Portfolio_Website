@@ -154,11 +154,11 @@ This project helped me gain hands-on experience with:
 
 ## 👨‍💻 Author
 
-**Mohit**
+**Mani Kant**
 
 Full Stack MERN Developer
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/https://github.com/maniknt/Portfolio_Website
 
 LinkedIn: https://linkedin.com/in/your-profile
 
